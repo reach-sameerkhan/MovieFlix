@@ -1,0 +1,12 @@
+D:\EGENI\Spring projects\movieflix\src\main\java\io\movieflix\rest\model\Imdb.java
+D:\EGENI\Spring projects\movieflix\src\main\java\io\movieflix\rest\service\MovieService.java
+D:\EGENI\Spring projects\movieflix\src\main\java\io\movieflix\rest\WebConfig.java
+D:\EGENI\Spring projects\movieflix\src\main\java\io\movieflix\rest\exception\MovieAlreadyExistsException.java
+D:\EGENI\Spring projects\movieflix\src\main\java\io\movieflix\rest\WebInitializer.java
+D:\EGENI\Spring projects\movieflix\src\main\java\io\movieflix\rest\repository\MovieRepository.java
+D:\EGENI\Spring projects\movieflix\src\main\java\io\movieflix\rest\exception\MovieNotFoundException.java
+D:\EGENI\Spring projects\movieflix\src\main\java\io\movieflix\rest\controller\MovieController.java
+D:\EGENI\Spring projects\movieflix\src\main\java\io\movieflix\rest\model\Movie.java
+D:\EGENI\Spring projects\movieflix\src\main\java\io\movieflix\rest\repository\MovieRepositoryImp.java
+D:\EGENI\Spring projects\movieflix\src\main\java\io\movieflix\rest\service\MovieServiceImp.java
+D:\EGENI\Spring projects\movieflix\src\main\java\io\movieflix\rest\JPAConfig.java
