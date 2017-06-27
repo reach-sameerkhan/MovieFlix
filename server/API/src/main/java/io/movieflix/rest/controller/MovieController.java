@@ -28,7 +28,7 @@ public class MovieController {
 	@RequestMapping(method=RequestMethod.GET, path="{id}", produces = MediaType.APPLICATION_JSON_UTF8_VALUE)
 	public Movie findOne(@PathVariable("id") String id){
 		return service.findOne(id);
-	} 
+	}  
 	
 	@RequestMapping(method=RequestMethod.GET, path="year/{year}", produces = MediaType.APPLICATION_JSON_UTF8_VALUE)
 	public List<Movie> findByYear(@PathVariable("year") int year){
