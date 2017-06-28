@@ -1,5 +1,5 @@
 package io.movieflix.rest.controller;
-//test changes to check if push from eclipse git is working
+
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
